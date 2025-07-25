@@ -1,5 +1,8 @@
+<img width="1000" height="744" alt="image" src="https://github.com/user-attachments/assets/c8ec6c43-a973-43dc-8b61-c2503ba6904d" />
+
+
 # Зунунов Амирхан – Портфолио разработчика
-Добро пожаловать в моё GitHub-портфолио! Здесь вы найдёте мои лучшие работы, реализованные проекты и доказательства практического опыта в области веб-разработки, систем автоматизации, бизнес-приложений и инженерных решений.
+Добро пожаловать в моё GitHub-портфолио! Здесь вы найдёте мои работы, реализованные проекты и доказательства практического опыта в области веб-разработки, систем автоматизации, бизнес-приложений и инженерных решений.
 
 
 ## Расписание киносъёмок	Веб-приложение для управления съёмочным процессом	Vue.js, NestJS, PostgreSQL, TypeScript	Дипломный проект
@@ -25,14 +28,14 @@
 <img width="1280" height="820" alt="image" src="https://github.com/user-attachments/assets/ea856db1-3142-41f8-b45b-67f693f08e21" />
 
 
-## bitrix24 - CRM SYSTEM. Делал систему обработки клиента 
+## bitrix24 - CRM SYSTEM. Делал систему обработки клиентов
 
 <img width="1432" height="802" alt="image" src="https://github.com/user-attachments/assets/786b88a0-342f-46a3-9cca-dfe8509c6777" />
 <img width="1110" height="705" alt="image" src="https://github.com/user-attachments/assets/b4645c8a-8da0-4117-bbb6-83b34af32e0c" />
 <img width="1426" height="581" alt="image" src="https://github.com/user-attachments/assets/a64e12ec-ba89-4a87-a3e5-c8ae43ab7a26" />
 
 
-## Собирал компьюетры (РАБОТА). Последнии сборки
+## Собирал компьютеры (РАБОТА). Последнии сборки
 <img width="598" height="1280" alt="image" src="https://github.com/user-attachments/assets/2519d12f-a1fd-4ae1-b567-96e5fea0d721" />
 <img width="1280" height="721" alt="image" src="https://github.com/user-attachments/assets/feb54381-288a-4887-a7a6-5f53c600e15f" />
 <img width="1024" height="1072" alt="image" src="https://github.com/user-attachments/assets/a9f95e4d-3d4e-4c9f-83a9-83f0aa3b3ed9" />
